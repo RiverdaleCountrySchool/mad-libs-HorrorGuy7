@@ -11,5 +11,5 @@ After compiling java, you can go to the class's arguments and type the following
 7. A place
 8. A plural noun
 9.  A Noun
-10. A verb
-11. A 
+10. A verb/linking verb
+11. A noun/adjective
